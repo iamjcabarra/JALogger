@@ -89,7 +89,7 @@ spec.platform     = :ios, "12.0"
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "JALogger"
+  spec.source_files  = "JALogger/Core"
   spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
